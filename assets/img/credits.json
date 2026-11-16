@@ -1,0 +1,77 @@
+{
+ "note": "Credits for the photographs in this folder: photos.mjs credits prints the footer block for the ones the pages use.",
+ "photos": [
+  {
+   "file": "photo-f32233903-960.jpg",
+   "files": [
+    "photo-f32233903-500.jpg",
+    "photo-f32233903-960.jpg"
+   ],
+   "id": "f32233903",
+   "alt": "RuaDarioAragao",
+   "by": "HenriqueBarraMansa",
+   "licence": "CC BY-SA 3.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:RuaDarioAragao.jpg",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f44638374.jpg",
+   "files": [
+    "photo-f44638374-500.jpg",
+    "photo-f44638374-960.jpg",
+    "photo-f44638374.jpg"
+   ],
+   "id": "f44638374",
+   "alt": "BARRA MANSA - Fábio Guimas",
+   "by": "Fábio Guimas",
+   "licence": "CC BY-SA 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:BARRA_MANSA_-_F%C3%A1bio_Guimas.JPG",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f17057939-960.jpg",
+   "files": [
+    "photo-f17057939-500.jpg",
+    "photo-f17057939-960.jpg"
+   ],
+   "id": "f17057939",
+   "alt": "Vista de Barra Mansa",
+   "by": "User: HenriqueBarraMansa",
+   "licence": "CC BY-SA 3.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Vista_de_Barra_Mansa.jpg",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f19089158-960.jpg",
+   "files": [
+    "photo-f19089158-500.jpg",
+    "photo-f19089158-960.jpg"
+   ],
+   "id": "f19089158",
+   "alt": "Barra Mansa em 2012",
+   "by": "Junius",
+   "licence": "Public domain",
+   "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "page": "https://commons.wikimedia.org/wiki/File:Barra_Mansa_em_2012.jpg",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f17743556.jpg",
+   "files": [
+    "photo-f17743556-500.jpg",
+    "photo-f17743556-960.jpg",
+    "photo-f17743556.jpg"
+   ],
+   "id": "f17743556",
+   "alt": "Ponte dos Arcos Barra Mansa",
+   "by": "HenriqueBarraMansa",
+   "licence": "CC BY-SA 3.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Ponte_dos_Arcos_Barra_Mansa.JPG",
+   "source": "Wikimedia Commons"
+  }
+ ]
+}
